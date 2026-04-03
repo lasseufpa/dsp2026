@@ -4,7 +4,7 @@ Repositório para o curso de Processamento Digital de Sinais [Programa de Pós-G
 
 ## 📋: Informações Gerais
 
-- **Período:** 2026.2  
+- **Período:** 2026.1  
 - **Plataforma de comunicação:** Google Classroom  
 - **Quadro de notas:** Planilha  
 - **Prof. responsável:** Aldebaro Klautau  
@@ -70,7 +70,7 @@ Tools, and Techniques to Build Intelligent Systems, 2nd Edition, 2019.
 |1B|Categorização de sinais e conversões A/D - D/A|1.8, 1.9, 1.11, 1.13, 1.27, 1.28, 1.29, 1.30, 1.32|
 
 Além de resolver as questões, os alunos devem indicar quais estão dispostos a apresentar em sala e, caso sejam chamados, apresentá-las para garantir os pontos. Indicar em:
-[Planilha de confirmação das apresentações dos exercícios](https://docs.google.com/spreadsheets/d/1WtyhVnGCtnoggxQOcvuRKTjZGNCo3ZlETIphH3RvCnk/edit?gid=341568014#gid=341568014)
+[Planilha de confirmação das apresentações dos exercícios]([https://docs.google.com/spreadsheets/d/1WtyhVnGCtnoggxQOcvuRKTjZGNCo3ZlETIphH3RvCnk/edit?gid=341568014#gid=341568014](https://docs.google.com/spreadsheets/d/1WtyhVnGCtnoggxQOcvuRKTjZGNCo3ZlETIphH3RvCnk/edit?gid=0#gid=0))
 
 ## :triangular_ruler: Projetos guiados
 
